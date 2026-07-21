@@ -1,6 +1,6 @@
 # Banking Transaction Analysis
 
-Analyzed 50,000+ real banking transactions using SQL and Excel to identify fraud patterns, spending trends and customer behavior across demographics.
+Analyzed 50,000+ Kaggle banking transactions using SQL and Excel to identify fraud patterns, spending trends and customer behavior across demographics.
 
 ## Demo
 ![Banking Analysis Demo](demo.gif)

@@ -5,9 +5,13 @@ Analyzed 50,000+ Kaggle banking transactions using SQL and Excel to identify fra
 ## Demo
 ![Banking Analysis Demo](demo.gif)
 
+## Power BI Dashboard
+![Power BI Dashboard](banking_analysis_powerbi_dashboard.png)
+
 ## Tools Used
 - MySQL Workbench (SQL)
 - Microsoft Excel (Dashboard)
+- Power BI (Interactive Dashboard)
 - Kaggle Dataset (50,000+ rows)
 
 ## Analysis Sections

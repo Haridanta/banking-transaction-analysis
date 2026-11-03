@@ -28,7 +28,7 @@ Analyzed 50,000+ Kaggle banking transactions using SQL and Excel to identify fra
 - Customers aged above average
 
 ### 3. Fraud Detection
-- Flagged 18% of transactions as suspicious based on multiple login attempts
+- Flagged 4.91% of transactions as suspicious based on multiple login attempts
 - Identified high value accounts exceeding RM10,000
 - Flagged transactions above average amount
 
@@ -39,6 +39,6 @@ Analyzed 50,000+ Kaggle banking transactions using SQL and Excel to identify fra
 
 ## Key Findings
 - Debit transactions account for 77% of total volume
-- 18% of transactions flagged as suspicious
+- 4.91% of transactions flagged as suspicious
 - Students make the most transactions across all occupations
 - February recorded the lowest transaction volume
